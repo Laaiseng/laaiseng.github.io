@@ -1,0 +1,62 @@
+
+shwd.png
+size: 490,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaizi
+  rotate: false
+  xy: 2, 3
+  size: 130, 87
+  orig: 132, 89
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: false
+  xy: 2, 92
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+mz
+  rotate: true
+  xy: 430, 81
+  size: 77, 58
+  orig: 79, 60
+  offset: 1, 1
+  index: -1
+puke1
+  rotate: true
+  xy: 134, 3
+  size: 87, 113
+  orig: 89, 115
+  offset: 1, 1
+  index: -1
+puke2
+  rotate: false
+  xy: 249, 2
+  size: 106, 112
+  orig: 108, 114
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 211, 116
+  size: 168, 42
+  orig: 170, 44
+  offset: 1, 1
+  index: -1
+zz3
+  rotate: true
+  xy: 430, 21
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+zz6
+  rotate: true
+  xy: 357, 23
+  size: 91, 71
+  orig: 91, 71
+  offset: 0, 0
+  index: -1

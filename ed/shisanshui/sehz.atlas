@@ -1,0 +1,83 @@
+
+sehz.png
+size: 187,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hg
+  rotate: false
+  xy: 2, 165
+  size: 117, 115
+  orig: 119, 117
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: true
+  xy: 2, 282
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+p1
+  rotate: false
+  xy: 121, 251
+  size: 64, 76
+  orig: 66, 78
+  offset: 1, 1
+  index: -1
+p2
+  rotate: false
+  xy: 115, 410
+  size: 70, 79
+  orig: 72, 81
+  offset: 1, 1
+  index: -1
+p3
+  rotate: false
+  xy: 2, 2
+  size: 74, 80
+  orig: 76, 83
+  offset: 1, 1
+  index: -1
+p4
+  rotate: true
+  xy: 2, 84
+  size: 79, 81
+  orig: 81, 83
+  offset: 1, 1
+  index: -1
+p5
+  rotate: false
+  xy: 121, 173
+  size: 64, 76
+  orig: 66, 78
+  offset: 1, 1
+  index: -1
+p6
+  rotate: false
+  xy: 115, 329
+  size: 70, 79
+  orig: 72, 81
+  offset: 1, 1
+  index: -1
+p7
+  rotate: true
+  xy: 78, 8
+  size: 74, 80
+  orig: 76, 83
+  offset: 1, 1
+  index: -1
+p8
+  rotate: true
+  xy: 85, 84
+  size: 79, 81
+  orig: 81, 83
+  offset: 1, 1
+  index: -1
+word
+  rotate: true
+  xy: 70, 321
+  size: 168, 43
+  orig: 170, 45
+  offset: 1, 1
+  index: -1

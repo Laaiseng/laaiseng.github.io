@@ -1,0 +1,76 @@
+
+stst.png
+size: 582,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd1
+  rotate: false
+  xy: 484, 18
+  size: 31, 43
+  orig: 33, 45
+  offset: 1, 1
+  index: -1
+cd2
+  rotate: true
+  xy: 517, 20
+  size: 41, 60
+  orig: 43, 62
+  offset: 1, 1
+  index: -1
+hx
+  rotate: false
+  xy: 2, 3
+  size: 124, 126
+  orig: 126, 128
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: false
+  xy: 373, 63
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+p1
+  rotate: true
+  xy: 219, 21
+  size: 108, 39
+  orig: 110, 41
+  offset: 1, 1
+  index: -1
+p2
+  rotate: true
+  xy: 316, 47
+  size: 82, 55
+  orig: 84, 57
+  offset: 1, 1
+  index: -1
+p3
+  rotate: true
+  xy: 128, 15
+  size: 114, 45
+  orig: 116, 47
+  offset: 1, 1
+  index: -1
+p4
+  rotate: true
+  xy: 175, 18
+  size: 111, 42
+  orig: 113, 44
+  offset: 1, 1
+  index: -1
+p5
+  rotate: true
+  xy: 260, 24
+  size: 105, 54
+  orig: 107, 56
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 316, 2
+  size: 166, 43
+  orig: 168, 45
+  offset: 1, 1
+  index: -1
