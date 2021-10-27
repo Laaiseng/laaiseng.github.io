@@ -1,0 +1,83 @@
+
+ytl.png
+size: 273,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui1
+  rotate: false
+  xy: 45, 5
+  size: 50, 51
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+houtui2
+  rotate: true
+  xy: 2, 2
+  size: 54, 41
+  orig: 56, 44
+  offset: 1, 2
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 58
+  size: 206, 67
+  orig: 211, 69
+  offset: 3, 1
+  index: -1
+longshen
+  rotate: false
+  xy: 71, 149
+  size: 194, 115
+  orig: 194, 115
+  offset: 0, 0
+  index: -1
+longtou
+  rotate: true
+  xy: 137, 7
+  size: 98, 91
+  orig: 101, 94
+  offset: 1, 1
+  index: -1
+puke1
+  rotate: false
+  xy: 230, 72
+  size: 41, 33
+  orig: 44, 35
+  offset: 1, 1
+  index: -1
+puke2
+  rotate: true
+  xy: 97, 16
+  size: 27, 34
+  orig: 30, 36
+  offset: 1, 1
+  index: -1
+puke3
+  rotate: false
+  xy: 97, 45
+  size: 36, 23
+  orig: 39, 25
+  offset: 2, 1
+  index: -1
+qianjiao1
+  rotate: true
+  xy: 71, 70
+  size: 77, 64
+  orig: 82, 68
+  offset: 1, 1
+  index: -1
+qianjiao2
+  rotate: true
+  xy: 230, 19
+  size: 51, 32
+  orig: 53, 34
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 137, 107
+  size: 117, 40
+  orig: 119, 42
+  offset: 1, 1
+  index: -1

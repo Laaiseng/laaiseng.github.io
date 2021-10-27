@@ -1,0 +1,76 @@
+
+wdst.png
+size: 280,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd_y
+  rotate: false
+  xy: 211, 195
+  size: 64, 103
+  orig: 64, 103
+  offset: 0, 0
+  index: -1
+cd_z
+  rotate: true
+  xy: 110, 84
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+gg4
+  rotate: true
+  xy: 171, 194
+  size: 36, 38
+  orig: 43, 44
+  offset: 3, 2
+  index: -1
+jb4
+  rotate: true
+  xy: 107, 7
+  size: 75, 45
+  orig: 77, 47
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: false
+  xy: 2, 232
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+puke1
+  rotate: true
+  xy: 2, 2
+  size: 81, 103
+  orig: 83, 105
+  offset: 1, 1
+  index: -1
+puke2
+  rotate: true
+  xy: 166, 15
+  size: 80, 100
+  orig: 82, 102
+  offset: 1, 1
+  index: -1
+puke3
+  rotate: true
+  xy: 171, 97
+  size: 95, 107
+  orig: 97, 109
+  offset: 1, 1
+  index: -1
+puke4
+  rotate: true
+  xy: 2, 85
+  size: 100, 106
+  orig: 102, 108
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 2, 187
+  size: 167, 43
+  orig: 169, 45
+  offset: 1, 1
+  index: -1

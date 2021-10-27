@@ -1,0 +1,55 @@
+
+ldb.png
+size: 487,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb1
+  rotate: false
+  xy: 242, 3
+  size: 57, 52
+  orig: 59, 54
+  offset: 1, 1
+  index: -1
+jb2
+  rotate: false
+  xy: 301, 11
+  size: 63, 44
+  orig: 65, 46
+  offset: 1, 1
+  index: -1
+jb3
+  rotate: true
+  xy: 448, 63
+  size: 60, 37
+  orig: 62, 39
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: false
+  xy: 242, 57
+  size: 204, 66
+  orig: 208, 68
+  offset: 3, 1
+  index: -1
+pike2
+  rotate: true
+  xy: 2, 2
+  size: 121, 124
+  orig: 123, 126
+  offset: 1, 1
+  index: -1
+puke1
+  rotate: false
+  xy: 128, 12
+  size: 112, 111
+  orig: 114, 113
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 366, 12
+  size: 109, 43
+  orig: 111, 45
+  offset: 1, 1
+  index: -1

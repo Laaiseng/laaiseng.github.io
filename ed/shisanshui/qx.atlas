@@ -1,0 +1,90 @@
+
+qx.png
+size: 153,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuan
+  rotate: true
+  xy: 84, 2
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+p1
+  rotate: false
+  xy: 48, 24
+  size: 33, 19
+  orig: 35, 21
+  offset: 1, 1
+  index: -1
+p10
+  rotate: false
+  xy: 87, 211
+  size: 64, 44
+  orig: 66, 46
+  offset: 1, 1
+  index: -1
+p2
+  rotate: false
+  xy: 2, 131
+  size: 63, 23
+  orig: 66, 25
+  offset: 2, 1
+  index: -1
+p3
+  rotate: false
+  xy: 2, 87
+  size: 51, 42
+  orig: 53, 44
+  offset: 1, 1
+  index: -1
+p4
+  rotate: true
+  xy: 55, 96
+  size: 33, 24
+  orig: 35, 26
+  offset: 1, 1
+  index: -1
+p5
+  rotate: true
+  xy: 55, 64
+  size: 30, 24
+  orig: 32, 26
+  offset: 1, 1
+  index: -1
+p6
+  rotate: false
+  xy: 2, 57
+  size: 48, 28
+  orig: 50, 30
+  offset: 1, 1
+  index: -1
+p7
+  rotate: false
+  xy: 2, 18
+  size: 44, 37
+  orig: 47, 39
+  offset: 1, 1
+  index: -1
+p8
+  rotate: false
+  xy: 2, 156
+  size: 80, 54
+  orig: 82, 56
+  offset: 1, 1
+  index: -1
+p9
+  rotate: false
+  xy: 52, 45
+  size: 29, 17
+  orig: 31, 19
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 2, 212
+  size: 83, 43
+  orig: 85, 45
+  offset: 1, 1
+  index: -1

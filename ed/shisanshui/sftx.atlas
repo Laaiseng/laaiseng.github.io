@@ -1,0 +1,48 @@
+
+sftx.png
+size: 388,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuan
+  rotate: false
+  xy: 182, 109
+  size: 204, 66
+  orig: 208, 68
+  offset: 3, 1
+  index: -1
+line1
+  rotate: false
+  xy: 182, 4
+  size: 142, 58
+  orig: 142, 58
+  offset: 0, 0
+  index: -1
+line2
+  rotate: true
+  xy: 354, 13
+  size: 94, 23
+  orig: 94, 23
+  offset: 0, 0
+  index: -1
+word
+  rotate: false
+  xy: 182, 64
+  size: 169, 43
+  orig: 171, 45
+  offset: 1, 1
+  index: -1
+yun
+  rotate: true
+  xy: 326, 2
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+yx
+  rotate: true
+  xy: 2, 24
+  size: 151, 178
+  orig: 153, 180
+  offset: 1, 1
+  index: -1
