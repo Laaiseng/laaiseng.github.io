@@ -1,0 +1,62 @@
+
+ssz.png
+size: 304,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuan
+  rotate: false
+  xy: 83, 94
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+puke1
+  rotate: false
+  xy: 195, 162
+  size: 98, 57
+  orig: 100, 59
+  offset: 1, 1
+  index: -1
+puke2
+  rotate: true
+  xy: 2, 16
+  size: 76, 109
+  orig: 78, 111
+  offset: 1, 1
+  index: -1
+puke3
+  rotate: true
+  xy: 202, 2
+  size: 90, 100
+  orig: 92, 102
+  offset: 1, 1
+  index: -1
+puke4
+  rotate: false
+  xy: 113, 11
+  size: 87, 81
+  orig: 89, 83
+  offset: 1, 1
+  index: -1
+puke5
+  rotate: false
+  xy: 131, 163
+  size: 62, 56
+  orig: 64, 58
+  offset: 1, 1
+  index: -1
+puke6
+  rotate: false
+  xy: 2, 117
+  size: 79, 58
+  orig: 81, 60
+  offset: 1, 1
+  index: -1
+word
+  rotate: false
+  xy: 2, 177
+  size: 127, 42
+  orig: 129, 44
+  offset: 1, 1
+  index: -1

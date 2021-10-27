@@ -1,0 +1,62 @@
+
+cys.png
+size: 340,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bs
+  rotate: true
+  xy: 211, 71
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: false
+  xy: 2, 81
+  size: 207, 66
+  orig: 211, 68
+  offset: 3, 1
+  index: -1
+puke1
+  rotate: true
+  xy: 248, 2
+  size: 67, 44
+  orig: 69, 46
+  offset: 1, 1
+  index: -1
+puke2
+  rotate: true
+  xy: 2, 10
+  size: 69, 68
+  orig: 71, 70
+  offset: 1, 1
+  index: -1
+puke3
+  rotate: true
+  xy: 72, 15
+  size: 64, 59
+  orig: 66, 62
+  offset: 1, 1
+  index: -1
+puke4
+  rotate: true
+  xy: 197, 4
+  size: 65, 49
+  orig: 68, 51
+  offset: 2, 1
+  index: -1
+puke5
+  rotate: false
+  xy: 133, 21
+  size: 62, 58
+  orig: 64, 60
+  offset: 1, 1
+  index: -1
+word
+  rotate: true
+  xy: 295, 21
+  size: 126, 43
+  orig: 128, 45
+  offset: 1, 1
+  index: -1

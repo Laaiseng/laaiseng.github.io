@@ -1,0 +1,55 @@
+
+sth.png
+size: 129,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd1
+  rotate: true
+  xy: 70, 127
+  size: 63, 57
+  orig: 63, 58
+  offset: 0, 1
+  index: -1
+cd2
+  rotate: false
+  xy: 70, 72
+  size: 55, 53
+  orig: 57, 54
+  offset: 1, 0
+  index: -1
+cd3
+  rotate: false
+  xy: 70, 48
+  size: 37, 22
+  orig: 39, 24
+  offset: 1, 1
+  index: -1
+kuan
+  rotate: true
+  xy: 2, 2
+  size: 188, 66
+  orig: 192, 68
+  offset: 3, 1
+  index: -1
+pk1
+  rotate: true
+  xy: 2, 192
+  size: 105, 109
+  orig: 108, 111
+  offset: 1, 1
+  index: -1
+pk2
+  rotate: true
+  xy: 2, 299
+  size: 100, 112
+  orig: 103, 114
+  offset: 2, 1
+  index: -1
+word
+  rotate: false
+  xy: 2, 401
+  size: 117, 39
+  orig: 119, 41
+  offset: 1, 1
+  index: -1
