@@ -1,0 +1,20 @@
+
+xipai01.png
+size: 413,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pai
+  rotate: false
+  xy: 272, 2
+  size: 139, 192
+  orig: 139, 192
+  offset: 0, 0
+  index: -1
+xipai03
+  rotate: false
+  xy: 2, 6
+  size: 268, 188
+  orig: 275, 192
+  offset: 4, 3
+  index: -1
